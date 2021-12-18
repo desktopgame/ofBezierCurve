@@ -1,0 +1,5 @@
+bin
+obj
+.vscode/browse.db
+.vscode/browse.db-shm
+.vscode/browse.db-wal
